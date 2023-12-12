@@ -1,3 +1,5 @@
+# 一部テストケースが通りません
+
 input = gets.to_s.chomp.split(" ")
 h = input[0].to_i
 w = input[1].to_i
